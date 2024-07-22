@@ -20,7 +20,9 @@
 * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://velog.io/@hseop/Deep-Compression-Compressing-Deep-Neural-Networks-with-Pruning-Trained-Quantization-and-Huffman-Coding)
 * [Pruning Filters for Efficient Convnets](https://velog.io/@hseop/PRUNING-FILTERS-FOR-EFFICIENT-CONVNETS)
 * [Adaptive Depth Networks with Skippable Sub-Paths](https://velog.io/@hseop/Adaptive-Depth-Networks-with-Skippable-Sub-Paths)
-
+* [Learning Efficient Object Detection Models with Knowledge Distillation](https://velog.io/@hseop/Learning-Efficient-Object-Detection-Models-with-Knowledge-Distillation#32-knowledge-distillation-for-classification-with-imbalanced-classes)
+* [BlockDrop: Dynamic Inference Paths in Residual Networks](https://velog.io/@hseop/BlockDrop-Dynamic-Inference-Paths-in-Residual-Networks)
+* 
 
 ## `Hybrid Arhictecture (CNN + Transformer)`
 * [CvT: Introducing Convolutions to Vision Transformers](https://velog.io/@hseop/CvT-Introducing-Convolutions-to-Vision-Transformers)
