@@ -10,7 +10,7 @@
 * [MobileNetV2: Inverted Residuals and Linear Bottlenecks, Sandler](https://velog.io/@hseop/MobileNetV2-Inverted-Residuals-and-Linear-Bottlenecks-Sandler)
 
 
-## `Transformer Architecture`
+## `Transformer based Classification`
 * [Attention Is All You Need](https://velog.io/@hseop/Attention-Is-All-You-Need)
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://velog.io/@hseop/ViT-An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale)
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://velog.io/@hseop/SwinT-Swin-Transformer-Hierarchical-Vision-Transformer-using-Shifted-Windows)
@@ -31,7 +31,7 @@
 * [CoAtNet: Marrying Convolution and Attention for All Data Sizes](https://velog.io/@hseop/CoAtNet-Marrying-Convolution-and-Attention-for-All-Data-Sizes)
 
 
-## `Detection` 
+## `Object Detection` 
 * [R-CNN](https://velog.io/@hseop/Simple-Review-Region-based-Convolutional-Networks-for-Accurate-Object-Detection-and-Segmentation)
 * [Fast R-CNN](https://velog.io/@hseop/Fast-R-CNN)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://velog.io/@hseop/Faster-R-CNN-Towards-Real-Time-Object-Detection-with-Region-Proposal-Networks)
