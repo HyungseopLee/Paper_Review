@@ -22,7 +22,7 @@
 * [Adaptive Depth Networks with Skippable Sub-Paths](https://velog.io/@hseop/Adaptive-Depth-Networks-with-Skippable-Sub-Paths)
 * [Learning Efficient Object Detection Models with Knowledge Distillation](https://velog.io/@hseop/Learning-Efficient-Object-Detection-Models-with-Knowledge-Distillation#32-knowledge-distillation-for-classification-with-imbalanced-classes)
 * [BlockDrop: Dynamic Inference Paths in Residual Networks](https://velog.io/@hseop/BlockDrop-Dynamic-Inference-Paths-in-Residual-Networks)
-* 
+* [Resolution Adaptive Networks for Efficient Inference](https://velog.io/@hseop/Resolution-Adaptive-Networks-for-Efficient-Inference#31-adaptive-inference-setting)
 
 ## `Hybrid Arhictecture (CNN + Transformer)`
 * [CvT: Introducing Convolutions to Vision Transformers](https://velog.io/@hseop/CvT-Introducing-Convolutions-to-Vision-Transformers)
