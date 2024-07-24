@@ -14,7 +14,7 @@
 * [Attention Is All You Need](https://velog.io/@hseop/Attention-Is-All-You-Need)
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://velog.io/@hseop/ViT-An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale)
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://velog.io/@hseop/SwinT-Swin-Transformer-Hierarchical-Vision-Transformer-using-Shifted-Windows)
-* 
+
 
 ## `Efficient`
 * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://velog.io/@hseop/Deep-Compression-Compressing-Deep-Neural-Networks-with-Pruning-Trained-Quantization-and-Huffman-Coding)
@@ -48,3 +48,4 @@
 * [DETR > Deformable DETR > RT-DETR](https://velog.io/@hseop/DETR-Deformable-DETR-RT-DETR)
 * [RTMDet: An Empirical Study of Designing Real-Time Object Detectors](https://velog.io/@hseop/RTMDet-An-Empirical-Study-of-Designing-Real-Time-Object-Detectors)
 * [YOLOv10: Real-Time End-to-End Object Detection](https://velog.io/@hseop/YOLOv10-Real-Time-End-to-End-Object-Detection)
+* [DynamicDet: A Unified Dynamic Architecture for Object Detection](https://velog.io/@hseop/DynamicDet-A-Unified-Dynamic-Architecture-for-Object-Detection#1-introduction)
