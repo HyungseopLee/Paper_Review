@@ -1,5 +1,9 @@
 # EAI_Paper_Review
 
+* There is a paper review based on the presentation slides below, and an additional review has also been posted on [my blog](https://velog.io/@hseop/series)(in Korean...).
+
+
+
 ## `CNN Architecture`
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://velog.io/@hseop/ImageNet-Classification-with-Deep-Convolutional-Neural-Networks)
 * [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://velog.io/@hseop/VERY-DEEP-CONVOLUTIONAL-NETWORKS-FOR-LARGE-SCALE-IMAGE-RECOGNITION-VGGNet)
