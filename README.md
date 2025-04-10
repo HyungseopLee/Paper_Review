@@ -12,12 +12,14 @@
 * [Batch Normalization : Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://velog.io/@hseop/Batch-Normalization-Accelerating-Deep-Network-Training-by-Reducing-Internal-Covariate-Shift)
 * [Deep Residual Learning for Image Recognition](https://velog.io/@hseop/ResNet-Deep-Residual-Learning-for-Image-Recognition)
 * [MobileNetV2: Inverted Residuals and Linear Bottlenecks, Sandler](https://velog.io/@hseop/MobileNetV2-Inverted-Residuals-and-Linear-Bottlenecks-Sandler)
+* ...
 
 
 ## `Transformer based Classification`
 * [Attention Is All You Need](https://velog.io/@hseop/Attention-Is-All-You-Need)
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://velog.io/@hseop/ViT-An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale)
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://velog.io/@hseop/SwinT-Swin-Transformer-Hierarchical-Vision-Transformer-using-Shifted-Windows)
+* ...
 
 
 ## `Efficient`
@@ -33,6 +35,8 @@
 * [Training data-efficient image transformers & distillation through attention](https://velog.io/@hseop/Simple-Review-DeiT-Training-data-efficient-image-transformers-distillation-through-attention)
 * [LeViT: a Vision Transformer in ConvNet’s Clothing for Faster Inference](https://velog.io/@hseop/LeViT-a-Vision-Transformer-in-ConvNets-Clothing-for-Faster-Inference)
 * [CoAtNet: Marrying Convolution and Attention for All Data Sizes](https://velog.io/@hseop/CoAtNet-Marrying-Convolution-and-Attention-for-All-Data-Sizes)
+* ...
+
 
 
 ## `Object Detection` 
@@ -53,3 +57,10 @@
 * [RTMDet: An Empirical Study of Designing Real-Time Object Detectors](https://velog.io/@hseop/RTMDet-An-Empirical-Study-of-Designing-Real-Time-Object-Detectors)
 * [YOLOv10: Real-Time End-to-End Object Detection](https://velog.io/@hseop/YOLOv10-Real-Time-End-to-End-Object-Detection)
 * [DynamicDet: A Unified Dynamic Architecture for Object Detection](https://velog.io/@hseop/DynamicDet-A-Unified-Dynamic-Architecture-for-Object-Detection#1-introduction)
+* ...
+
+
+## `Feature Fusion & Feature Alignment`
+
+* [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://velog.io/@hseop/ECCV-2024-Rethinking-Features-Fused-Pyramid-Neck-for-Object-Detection)
+* ...
