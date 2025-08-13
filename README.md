@@ -1,6 +1,6 @@
 # EAI_Paper_Review
 
-* There is a paper review based on the presentation slides below, and an additional review has also been posted on [my blog](https://velog.io/@hseop/series)(in Korean...).
+* There is a paper review based on the presentation slides below, and an additional review has also been posted on [my blog](https://velog.io/@hseop/series).
 
 
 
