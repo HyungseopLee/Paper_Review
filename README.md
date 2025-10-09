@@ -9,12 +9,12 @@
 * (2014 arXiv) [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://velog.io/@hseop/VERY-DEEP-CONVOLUTIONAL-NETWORKS-FOR-LARGE-SCALE-IMAGE-RECOGNITION-VGGNet)
 * (2014 ICLR) [Network In Network](https://velog.io/@hseop/Network-In-Network)
 * (2015 CVPR) [Going deeper with convolutions](https://velog.io/@hseop/GoogleNet-Going-deeper-with-convolutions)
-* (2015 ICML) [Batch Normalization : Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://velog.io/@hseop/Batch-Normalization-Accelerating-Deep-Network-Training-by-Reducing-Internal-Covariate-Shift)
 * (2016 CVPR) [Deep Residual Learning for Image Recognition](https://velog.io/@hseop/ResNet-Deep-Residual-Learning-for-Image-Recognition)
 * (2018 CVPR) [MobileNetV2: Inverted Residuals and Linear Bottlenecks, Sandler](https://velog.io/@hseop/MobileNetV2-Inverted-Residuals-and-Linear-Bottlenecks-Sandler)
 * (2018 ECCV) [CBAM: Convolutional Block Attention Module](https://velog.io/@hseop/Simple-Review-2018-ECCV-CBAM-Convolutional-Block-Attention-Module)
 * (2018 CVPR) [Squeeze-and-Excitation Networks](https://velog.io/@hseop/Simple-Review-2018-CVPR-Squeeze-and-Excitation-Networks)
 * ...
+
 
 
 ## `Transformer-based Image Classification`
@@ -34,6 +34,12 @@
 * (2021 ICCV) [LeViT: a Vision Transformer in ConvNet’s Clothing for Faster Inference](https://velog.io/@hseop/LeViT-a-Vision-Transformer-in-ConvNets-Clothing-for-Faster-Inference)
 * (2021 NeurIPS) [CoAtNet: Marrying Convolution and Attention for All Data Sizes](https://velog.io/@hseop/CoAtNet-Marrying-Convolution-and-Attention-for-All-Data-Sizes)
 
+
+
+## `Fundamental in Deep Learning (Normalization, Activation Function, Initialization, etc.)`
+* (2015 ICML) [Batch Normalization : Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://velog.io/@hseop/Batch-Normalization-Accelerating-Deep-Network-Training-by-Reducing-Internal-Covariate-Shift)
+* (2025 CVPR) [Transformers without Normalization](https://velog.io/@hseop/2025-CVPR-Transformers-without-Normalization)
+* ...
 
 
 
