@@ -100,7 +100,7 @@
 * (2020 ECCV) [End-to-End Object Detection with Transformers](https://velog.io/@hseop/DETR-End-to-End-Object-Detection-with-Transformers)
 * (2021 ICLR) [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://velog.io/@hseop/Simple-ReviewDeformable-DETR-Deformable-DETR-Deformable-Transformers-for-End-to-End-Object-Detection)
 * (2022 arXiv) [RTMDet: An Empirical Study of Designing Real-Time Object Detectors](https://velog.io/@hseop/RTMDet-An-Empirical-Study-of-Designing-Real-Time-Object-Detectors)
-* (2023 CVPR) [DynamicDet: A Unified Dynamic Architecture for Object Detection](https://velog.io/@hseop/DynamicDet-A-Unified-Dynamic-Architecture-for-Object-Detection#1-introduction)
+* (2023 CVPR) [DynamicDet: A Unified Dynamic Architecture for Object Detection](https://velog.io/@hseop/DynamicDet-A-Unified-Dynamic-Architecture-for-Object-Detection)
 * (2023 CVPR) [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://velog.io/@hseop/YOLOv7-Trainable-bag-of-freebies-sets-new-state-of-the-art-for-real-time-object-detectors)
 * (2024 CVPR) [DETRs Beat YOLOs on Real-time Object Detection](https://velog.io/@hseop/DETRs-Beat-YOLOs-on-Real-time-Object-Detection)
 * [DETR > Deformable DETR > RT-DETR](https://velog.io/@hseop/DETR-Deformable-DETR-RT-DETR)
